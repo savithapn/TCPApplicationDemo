@@ -1,0 +1,9 @@
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPClient\bin\Debug\TCPClient.exe
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPClient\bin\Debug\TCPClient.pdb
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPClient\obj\Debug\TCPClient.exe
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPClient\obj\Debug\TCPClient.pdb

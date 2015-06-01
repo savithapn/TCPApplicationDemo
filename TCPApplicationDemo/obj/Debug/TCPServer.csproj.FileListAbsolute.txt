@@ -1,0 +1,9 @@
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPApplicationDemo\bin\Debug\TCPApplicationDemo.exe.config
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPApplicationDemo\bin\Debug\TCPApplicationDemo.exe
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPApplicationDemo\bin\Debug\TCPApplicationDemo.pdb
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPApplicationDemo\obj\Debug\TCPApplicationDemo.Server.resources
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPApplicationDemo\obj\Debug\TCPApplicationDemo.Properties.Resources.resources
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPApplicationDemo\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPApplicationDemo\obj\Debug\TCPApplicationDemo.exe
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPApplicationDemo\obj\Debug\TCPApplicationDemo.pdb
+D:\Savitha\GitHubProjects\TCPApplicationDemo\TCPApplicationDemo\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
